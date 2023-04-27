@@ -1,0 +1,1 @@
+print("Merhaba bu bir test dosyasıdır!")
